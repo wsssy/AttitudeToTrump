@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Here is some title
-bigimg: /assets/img/trump_in_g7.jpeg
+bigimg: assets/img/trump_in_g7.jpeg
 ---
 
 
