@@ -1,3 +1,10 @@
+---
+layout: page
+title: Here is some title
+bigimg: /assets/img/trump_in_g7.jpeg
+---
+
+
 # Population's Attitudes Towards Trump
 
 ## Abstract 📖
