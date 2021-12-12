@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Population's Attitudes Towards Trump
-bigimg: assets/img/trump_in_g7.jpeg
+cover-img: assets/img/trump_in_g7.jpeg
 ---
 
 
