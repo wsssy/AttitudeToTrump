@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Here is some title
+title: Population's Attitudes Towards Trump
 bigimg: assets/img/trump_in_g7.jpeg
 ---
 
