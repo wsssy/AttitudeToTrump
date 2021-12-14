@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -101,7 +101,7 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#443c4b"
+navbar-col: "#f7f6f5
 navbar-text-col: "#fffcfb"
 navbar-border-col: "#584c64"
 page-col: "#FFFFFF"
