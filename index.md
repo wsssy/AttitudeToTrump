@@ -15,8 +15,8 @@ In recent years, Donald Trump is no doubt one of the most controversial public f
 ## Who talked most about Trump in 2020?
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/quotes-2020_top10_count.html"></iframe>
 
-## Who talked most about Trump in 2015?
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/quotes-2015_before_elction_top10_count.html"></iframe>
+## Who talked most about Trump in 2015 before election?
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/quotes-2015_before_election_top10_count.html"></iframe>
 
 
 Obviously those politicians.
