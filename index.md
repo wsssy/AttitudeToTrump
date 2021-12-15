@@ -28,7 +28,7 @@ This palce is for people's attitude change after Trump won the election
 
 <figure class="sidenote">
     <img src="assets/img/Trump_wings.jpeg">
-    <figcaption><em>Figure 2.</em> Trump and his wings</figcaption>
+    <figcaption><em>Figure 1.</em> Trump and his wings</figcaption>
 </figure>
 </div>
 
