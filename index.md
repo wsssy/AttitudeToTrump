@@ -12,18 +12,24 @@ cover-img	: assets/img/trump_in_g7.jpeg
 In recent years, Donald Trump is no doubt one of the most controversial public figures around the world. From winning the 2016 presidential election as a dark horse to losing the election by a narrow margin in late 2020, Trump has made a non-negligible impact on the United States and the world in the four years of his presidency. People’s attitude towards him greatly divides over different groups of people and varies as time moves forward. We want to see what people's attitudes toward Trump are in these four years, whether these attitudes have changed, and further what factors might be related to these changes. In other words, we will study people’s attitudes before and after some major events to find out how the attitudes change. And we will analyze those quotes about Trump and the US in the quotebank to find out the correlation between these two attitudes.
 
 
-## Who talked most about Trump in 2020?
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/quotes-2020_top10_count.html"></iframe>
-
 ## Who talked most about Trump in 2015 before election?
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/quotes-2015_before_election_top10_count.html"></iframe>
 
+Steve Easterbrook is ceo of McDonald's
+James Franco an actor formal employee of McDonald's
+
+
+## Who talked most about Trump in 2020?
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/quotes-2020_top10_count.html"></iframe>
 
 Obviously those politicians.
 
+
+## **How people change thier attitudes after Trump won the elction** ❓
 <div class="withSidenote" markdown="1">
-## **How people change thier attitudes after Trump win the elction** ❓
+
 This palce is for people's attitude change after Trump won the election
+(Using cluster PCA results)
 
 
 <figure class="sidenote">
