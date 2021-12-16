@@ -49,6 +49,10 @@ This palce is for people's attitude change after Trump won the election
 </figure>
 </div>
 
+## The Semantics of the Quotes from 2015 are Different
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/Total_Speakers_Time_PCA_Result.html"></iframe>
+
 ## **Research Questions** ❓
 
 - **Question 1**. To explore the attitude towards Trump of each people cluster and check whether there is (a) specific cluster(s) that has/have an explicit attitude towards him and find out whether these clusters have some defining or distinguishing characteristic.
@@ -159,5 +163,3 @@ To show whether there is a correlation between people’s attitudes towards Trum
    Some major events can be those compounders where it both changes
    people’s attitude towards Trump and Us. How can we select people
    with a “coin”? Or how can we find some useful matching?
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/Total_Speakers_Time_PCA_Result.html"></iframe>
