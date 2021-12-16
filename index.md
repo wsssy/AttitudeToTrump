@@ -15,8 +15,8 @@ In recent years, Donald Trump is no doubt one of the most controversial public f
 ## Who talked most about Trump in 2015 before election?
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/quotes-2015_before_election_top10_count.html"></iframe>
 
-Steve Easterbrook is ceo of McDonald's
-James Franco an actor formal employee of McDonald's
+From the above picture, not too many people have interst in Trump before he won the election. Moreover, those people who talked about Trump mostly are not famous politicains.
+
 
 
 ## Who talked most about Trump in 2020?
