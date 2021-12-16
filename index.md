@@ -150,21 +150,14 @@ To show whether there is a correlation between people’s attitudes towards Trum
 ## **Questions for TAs** 👀
 
 1. How to deal with one speaker having more than 1 qid?
-2. For research question 3 the original one is “To explore whether there is any correlation between people’s attitudes toward Trump and America and discover whether there is any causal relationship between them.” But it seems difficult to find if it is actually a causal relation. How can we know if changes in people's attitudes towards Trump actually cause their opinion change towards America? Some major events can be those compounders where it both changes people’s attitude towards Trump and Us. How can we select people with a “coin”? Or how can we find some useful matching? 
+2. For research question 3 the original one is “To explore whether
+   there is any correlation between people’s attitudes toward Trump
+   and America and discover whether there is any causal relationship
+   between them.” But it seems difficult to find if it is actually a
+   causal relation. How can we know if changes in people's attitudes
+   towards Trump actually cause their opinion change towards America?
+   Some major events can be those compounders where it both changes
+   people’s attitude towards Trump and Us. How can we select people
+   with a “coin”? Or how can we find some useful matching?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/Total_Speakers_Time_PCA_Result.html"></iframe>
