@@ -49,9 +49,28 @@ This palce is for people's attitude change after Trump won the election
 </figure>
 </div>
 
-## The Semantics of the Quotes from 2015 are Different
+## The Semantics of the Quotes in 2015 are Different
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/Total_Speakers_Time_PCA_Result.html"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/PCA_Result_of_Aggrageted_by_Month.html"></iframe>
+
+The graph above is the 2-dimension representation of the word
+embeddings aggregated by months. We aggregate the word embeddings by
+averaging the embedding vectors grouped by months. In the graph,
+numbers called 'Date Sequence' map to months between January 2015 and
+April 2020.
+
+As we can see from the graph, quotes in 2015, which are represented by
+points with the darkest colours, have vastly different semantics from
+those in the other years. The points spread around the plot and quite
+a few of them are far away from the cluster of points near the middle.
+
+2015 is the year preceding Trump's presidency and as we can see from
+our previous analysis people who talked about Trump has changed after
+his presidency, which should be the main reason why quotes in 2015
+mentioning Trump have different semantics.
+
+If the conjecture were true, we can see that different people talk in
+different styles and talk about different things.
 
 ## **Research Questions** ❓
 
