@@ -15,7 +15,18 @@ In recent years, Donald Trump is no doubt one of the most controversial public f
 ## Who talked most about Trump in 2015 before election?
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/quotes-2015_before_election_top10_count.html"></iframe>
 
-From the above picture, not too many people have interst in Trump before he won the election. Moreover, those people who talked about Trump mostly are not famous politicains.
+From the above picture, not too many people have interst in Trump before he won the election. Moreover, those people who talked about Trump mostly are not politicains. 
+
+Sarah Palin a local politician
+Herman Saatkamp fourth president of Stockton University
+Jerry Seinfeld an famous actor 
+Steve Deace a comddy show host
+Alec Baldwinn an actor
+Ian Ziering an actor
+John Gibbons a baseball player
+Hope Hicks an employee of The Trump Organization
+Leeza Gibbons a takl show host
+Joe Scarborough a Television host
 
 
 
