@@ -26,6 +26,7 @@ Trump has announced his willingness for the presidential election in June 2015. 
 | Jerry Seinfeld      | a famous actor             |
 | Steve Deace         | a comedy show host         |
 | Alec Baldwinn       | an actor                   |
+| Ian Ziering         | an actor                   |
 | John Gibbons        | a baseball player          |
 | Hope Hicks          | a  former employee of The Trump Organization |
 | Leeza Gibbons       | a talk show host           |
