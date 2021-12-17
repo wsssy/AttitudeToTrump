@@ -16,8 +16,10 @@ narrow margin in late 2020, Trump has made a significant impact on
 the United States and the world during the four years of his presidency.
 
 We would like to find out how people’s words on Trump have changed and
-the reasons behind the changes. We will first show that there are
-indeed changes in people’s words and we will investigate what has
+the reasons behind the changes. We will first discover the change of Turmp's 
+social circle by analysing who talked most about him in different time.
+then We will show that there are
+also changes in people’s words and we will investigate what has
 changed. After that, we will try to identify the potential factors
 that would have caused these changes.
 
