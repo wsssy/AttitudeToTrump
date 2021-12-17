@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Trump Chronicles - a glimpse from 2015 to 2020
-cover-img	: assets/img/trump_in_g7.jpeg
+title: Trump: 2015 to 2020
+cover-img: assets/img/trump_in_g7.jpeg
 ---
 
 
