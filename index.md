@@ -22,8 +22,8 @@ Trump has announced his willingness for the presidential election in June 2015. 
 
 
 <figure class="sidenote">
-    <img src="assets/img/trump_book.jpeg">
-    <figcaption><em>Figure 1.</em> The art of the deal</figcaption>
+    <img src="assets/img/Trump_wings.jpeg">
+    <figcaption><em>Figure 1.</em> Trump and his wings</figcaption>
 </figure>
 </div>
 
@@ -54,7 +54,7 @@ In this part we have discovered the transition of Trump’s circle from the diff
 
 
 
-## **word frequency** 
+## **Word frequency** 
 
 
 ## The Semantics of the Quotes in 2015 are Different
