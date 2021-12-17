@@ -131,6 +131,11 @@ clusters.
 width="100%" height="500" allowfullscreen="true"
 src="assets/img/Costs_Trendency_depending_on_the_Number_of_Clusters.html"></iframe>
 
+<!-- PCA Plots of Clustering -->
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
+width="100%" height="500" allowfullscreen="true"
+src="assets/img/PCA_Result_of_Clustering.html"></iframe>
+
 The figures show the distribution of features for each
 cluster as below.
 
@@ -174,10 +179,10 @@ different cluster. We first calculated mean of each cluster for each
 month based on BERT embedding matrix. And then we did 2-dimention PCA
 for all of the mean vector.
 
-<!-- PCA Plots of Clustering -->
+<!-- All Speakers -->
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
 width="100%" height="500" allowfullscreen="true"
-src="assets/img/PCA_Result_of_Clustering.html"></iframe>
+src="assets/img/Total_Speakers_Time_PCA_Result.html"></iframe>
 
 From the above figure, we could observe that although different
 clusters had different quotes’ contents’ in early years (i.e. 2015,
