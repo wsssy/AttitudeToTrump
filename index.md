@@ -107,17 +107,18 @@ out the factors that may influence people's words towards Trump.
 ## Cluster Analysis
 
 Having viewed the results grouped by the nationalities and age groups,
-we observed that there are poeple from different regions have
+we observed that there are people from different regions have
 different attitudes towards Trump; however, different age groups does
 not give the same result. In this case, we want to have a higher and
 more abstract view of how different kinds of people have different
 views or speak differently about Trump. We decided to do the
 clustering based on speakers’ age, nationalities, genders, religions,
-parties, and their education degrees. By Collecting data from Wiki
-Data, we noticed that these categorical variables are too detailed, so
-we implemented dimension reduction with net connection method combined
-with manually manipulation.
-
+parties, and their education degrees. Data from Wikidata have too many
+low level details and concepts. It is hard to analyse the data in its
+raw form because the raw data bring in too many categorical values
+that makes clustering analysis infeasible. Therefore, we make use of
+the semantic links in the Wikidata database so that we can work on
+fewer concepts that have broader semantics.
 
 For clustering, we used K-prototype, which could deal with mixed data
 continue variables and categorical variables. After getting the costs
