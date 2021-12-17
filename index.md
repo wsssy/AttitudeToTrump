@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trump: 2015 to 2020
+title: "Trump: 2015 to 2020"
 cover-img: assets/img/trump_in_g7.jpeg
 ---
 
