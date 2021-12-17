@@ -66,14 +66,14 @@ In this part we have discovered the transition of Trump’s circle from the diff
 ## **Word frequency** 
 
 <figure>
-    <img src="assets/img/2015_wordcloud_befor6.png" style="width:65%",class="center">
+    <img src="assets/img/2015_wordcloud_befor6.png" style="width:65%">
     <figcaption></figcaption>
 </figure>
 Now let us look at the keywords of all quotes in 2015 before he announced his candidacy. As shown in the above picture, we can see some interesting keywords such as “business”, “businessman”, “golf” etc. This matches his role at that time pretty well. Now let us fly to 2020, as shown in the second picture here we can easily see that the semantics of  keywords have hugely changed. Most keywords appearing now are tightly related to topics of politics, such as “campaign”, “administration”, “election“ etc. Again, this gives us strong evidence of the transition of Trump’s position, namely from  a businessman to the president. Also not surprisingly, we found the keywords “coronavirus”  in the below  picture which also made us more convinced that  this “word cloud” in some way can represent the trends of that time.
 
 
 <figure>
-    <img src="assets/img/2020_wordcloud.png" style="width:65%", class="center">
+    <img src="assets/img/2020_wordcloud.png" style="width:65%">
     <figcaption></figcaption>
 </figure>
 
