@@ -9,31 +9,39 @@ cover-img	: assets/img/trump_in_g7.jpeg
 
 ## Abstract 📖
 
-In recent years, Donald Trump is no doubt one of the most controversial public figures around the world. From winning the 2016 presidential election as a dark horse to losing the election by a narrow margin in late 2020, Trump has made a non-negligible impact on the United States and the world in the four years of his presidency. People’s attitude towards him greatly divides over different groups of people and varies as time moves forward. We want to see what people's attitudes toward Trump are in these four years, whether these attitudes have changed, and further what factors might be related to these changes. In other words, we will study people’s attitudes before and after some major events to find out how the attitudes change. And we will analyze those quotes about Trump and the US in the quotebank to find out the correlation between these two attitudes.
+In recent years, Donald Trump is no doubt one of the most controversial public figures around the world. From winning the 2016 presidential election as a dark horse to losing the election by a narrow margin in late 2020, Trump has made a non-negligible impact on the United States and the world in the four years of his presidency. People’s attitude towards him greatly divides over different groups of people and varies as time moves forward. We want to see what people's attitudes toward Trump are in these four years, whether these attitudes have changed, and further what factors might be related to these changes. In other words, we will study people’s attitudes before and after some major events to find out how the attitudes change.
 
+## Who talked most about Trump?
 
-## Who talked most about Trump in 2015 before election?
+### Who talked most about Trump in 2015 before election?
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/quotes-2015_before_election_top10_count.html"></iframe>
 
-From the above picture, not too many people have interst in Trump before he won the election. Moreover, those people who talked about Trump mostly are not politicains. 
-
-Sarah Palin a local politician
-Herman Saatkamp fourth president of Stockton University
-Jerry Seinfeld an famous actor 
-Steve Deace a comddy show host
-Alec Baldwinn an actor
-Ian Ziering an actor
-John Gibbons a baseball player
-Hope Hicks an employee of The Trump Organization
-Leeza Gibbons a takl show host
-Joe Scarborough a Television host
+Trump has announced his willingness for the presidential election in June 2015. Before his presidency,  as we know, he was a businessman, a TV show host, a writer of *The art of deal*, a WWE wrestler,with such a rich professional experience but surprisingly no political career.  It would be interesting to see who talks most about Trump at different times. Since this may reveal how his social circle changes. Thanks to quotebank, we collect all those people who talked most about Trump before he announced his candidacy.  As shown in the above picture, Trump himself without doubt has most quotations about himself. Other people seem to be less famous. Their occupations are shown in the table below. 
 
 
+| People              | Occupation                 |
+| :-------------------| ---------------------------|
+| Sarah Palin         | a local politician         |
+|  Herman Saatkamp    | fourth president of Stockton University  |
+| Jerry Seinfeld      | a famous actor             |
+| Steve Deace         | a comedy show host         |
+| Alec Baldwinn       | an actor                   |
+| John Gibbons        | a baseball player          |
+| Hope Hicks          | a  former employee of The Trump Organization |
+| Leeza Gibbons       | a talk show host           |
+| Joe Scarborough     | a Television host          |
 
-## Who talked most about Trump in 2020?
+As we can see from the table, most people are non politicians and most of them are from show business. If we take a close look at the quotation numbers, we found that they are all less than one hundred. Not too many people were interested in Trump except himself before his presidency.  However everything has changed after he became president of america. Now let us fly to 2020 to see who talks about him most. As shown in the picture below, first and not surprisingly, Trump was still the person who talked himself most. However, other people who talked most about Trump have hugely changed. One obvious observation is that all of them are now politicians. This strongly suggests that Trump’s circle has changed, from a businessman to the centre of the political vortex. On the other hand, if we take a close look at the quotation numbers, we may find that it has grown hugely from below a hundred to thousands of quotes. This also suggests that Trump becomes the centre of the whirling vortex of politics. 
+
+### Who talked most about Trump in 2020?
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/quotes-2020_top10_count.html"></iframe>
 
-Obviously those politicians.
+In this part we have discovered the transition of Trump’s circle from the difference of people who talked about him most. It would be nice to take a closer look at what people actually say. So we analyze the word frequency as discussed in the next section.
+
+
+
+
+
 
 
 ## **How people change thier attitudes after Trump won the elction** ❓
