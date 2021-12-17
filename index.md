@@ -69,8 +69,9 @@ April 2020.
 
 As we can see from the graph, quotes in 2015, which are represented by
 points with the darkest colours, have vastly different semantics from
-those in the other years. The points spread around the plot and quite
-a few of them are far away from the cluster of points near the middle.
+those in the other years. These points are mostly around (0.6, 0) and
+in the graph they are to the right of where most other points
+lie. Also, some spread around the graph.
 
 2015 is the year preceding Trump's presidency and as we can see from
 our previous analysis people who talked about Trump has changed after
