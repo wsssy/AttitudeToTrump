@@ -7,7 +7,7 @@ cover-img: assets/img/trump_in_g7.jpeg
 
 # Population's Attitudes Towards Trump
 
-## Abstract 📖
+## Backgrounds 
 
 In recent years, Donald Trump is no doubt one of the most
 controversial public figures around the world. From winning the 2016
@@ -15,13 +15,7 @@ presidential election as a dark horse to losing the election by a
 narrow margin in late 2020, Trump has made a significant impact on
 the United States and the world during the four years of his presidency.
 
-We would like to find out how people’s words on Trump have changed and
-the reasons behind the changes. We will first discover the change of Turmp's 
-social circle by analysing who talked most about him in different time.
-then We will show that there are
-also changes in people’s words and we will investigate what has
-changed. After that, we will try to identify the potential factors
-that would have caused these changes.
+In our story we are going to discover what has changed for quotes on Trump and the reason behind these changes. At the beginning, we will first discover the change of Trump's social circle by analysing who talked most about him at different times. Then we are going to investigate the changes over people's words when they talked about Trump. After that, we go one step further to analyse the semantics of quotes rather than analysing on the level of words. Finally, we will try to identify the potential factors that would have caused these changes.
 
 
 ## Who talked most about Trump?
