@@ -212,39 +212,43 @@ In this part we have discovered how the factor region affects people’s attitud
 ## Cluster Analysis
 
 Having viewed the results grouped by the nationalities and age groups,
-we observed that there are people from different regions have
-different attitudes towards Trump; however, different age groups does
+we observed that there are people from different regions who have
+different attitudes towards Trump; however, different age groups do
 not give the same result. In this case, we want to have a higher and
 more abstract view of how different kinds of people have different
 views or speak differently about Trump. We decided to do the
 clustering based on speakers’ age, nationalities, genders, religions,
-parties, and their education degrees. Data from Wikidata have too many
-low level details and concepts. It is hard to analyse the data in its
+parties, and their education degrees.  Data from Wikidata has too many
+low level details and concepts. It is hard to analyze the data in its
 raw form because the raw data bring in too many categorical values
 that makes clustering analysis infeasible. Therefore, we make use of
 the semantic links in the Wikidata database so that we can work on
 fewer concepts that have broader semantics.
 
 For clustering, we used K-prototype, which could deal with mixed data
-continue variables and categorical variables. After getting the costs
+continuous variables and categorical variables. After getting the cost
 tendency (see below), we decided to cluster speakers into 5
-clusters.
+clusters. The figures show the distribution of features for each
+cluster as below.
 
 <!-- Costs -->
+<figure>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
 width="100%" height="500" allowfullscreen="true"
 src="assets/img/Costs_Trendency_depending_on_the_Number_of_Clusters.html"></iframe>
+<figcaption>The costs above refer to the distance in cluster. We need to see the
+speed of decreasing to determine the number of clusters we use.</figcaption>
+</figure>
 
-The costs above refer to the distance in cluster. We need to see the
-speed of decreasing to determine the number of clusters we use.
 
 <!-- PCA Plots of Clustering -->
+<figure>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
 width="100%" height="500" allowfullscreen="true"
 src="assets/img/PCA_Result_of_Clustering.html"></iframe>
-
-We use PCA on the matrix of speaker features matrix, which showing
-that clustering did a good job.
+<figcaption>We use PCA on the matrix of speaker features matrix, which showing
+that clustering did a good job.</figcaption>
+</figure>
 
 The figures show the distribution of features for each
 cluster as below.
@@ -255,12 +259,13 @@ width="100%" height="500" allowfullscreen="true"
 src="assets/img/Age_Distribution_over_Clusters.html"></iframe>
 
 <!-- Candidate Portion -->
+<figure>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
 width="100%" height="500" allowfullscreen="true"
 src="assets/img/Candidate_Portion_in_cluster.html"></iframe>
-
-This figure shows the portion of speakers in each cluster who have
-been to be a candidate for some election.
+<figcaption>This figure shows the portion of speakers in each cluster who have
+been to be a candidate for some election.</figcaption>
+</figure>
 
 <!-- Education Portion -->
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
@@ -288,26 +293,32 @@ width="100%" height="500" allowfullscreen="true"
 src="assets/img/Religion_Portion_in_cluster.html"></iframe>
 
 Then, we want to see if there exists different quotes’ contents over
-different cluster. We first calculated mean of each cluster for each
-month based on BERT embedding matrix. And then we did 2-dimention PCA
-for all of the mean vector.
+different clusters. We first calculated the mean of each cluster for
+each month based on the BERT embedding matrix. And then we did
+2-dimension PCA for all of the mean vectors.
 
 <!-- All Speakers -->
+<figure>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
 width="100%" height="500" allowfullscreen="true"
 src="assets/img/Total_Speakers_Time_PCA_Result.html"></iframe>
-
-The date sequence is defined as the same as above. The deep colors
+<figcaption>The date sequence is defined as the same as above. The deep colors
 refer to early years (i.e. 2015, 2016), while light colors refer to
-later years.
+later years.</figcaption>
+</figure>
 
 From the above figure, we could observe that although different
 clusters had different quotes’ contents’ in early years (i.e. 2015,
 2016), then, as time passed, all the clusters’ quotes’ contents tend
-to be the same. This result also implies that people tend to talked
-about Trump under a focused context after he became
-president. Combined with the word cloud we have above, we could see
-that the contexts focused more on the political aspects.
+to be the same. The result confirmed our previous conclusion that in
+2015 and early 2016 before Trump became the president, the contexts
+were really different due to the speakers’ role. This result also
+implies that people tend to talk about Trump under a focused context
+after he became president. Combined with the word cloud we have above,
+we could see that the contexts focused more on the political
+aspects. Also, there is no significant difference in content between
+different clusters. The time (or events) plays a more significant role
+than speakers’ features on quotes.
 
 ## Ending
 
