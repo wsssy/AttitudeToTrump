@@ -44,11 +44,8 @@ In this part we have discovered the transition of Trump’s circle from the diff
 
 
 
-## **How people change thier attitudes after Trump won the elction** ❓
+## **word frequency** 
 <div class="withSidenote" markdown="1">
-
-This palce is for people's attitude change after Trump won the election
-(Using cluster PCA results)
 
 
 <figure class="sidenote">
