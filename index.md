@@ -235,7 +235,7 @@ cluster as below.
 <figure>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
 width="100%" height="500" allowfullscreen="true"
-src="assets/img/Costs_Trendency_depending_on_the_Number_of_Clusters.html"></iframe>
+src="assets/img/Costs_Tendency_depending_on_the_Number_of_Clusters.html"></iframe>
 <figcaption>The costs above refer to the distance in cluster. We need to see the
 speed of decreasing to determine the number of clusters we use.</figcaption>
 </figure>
