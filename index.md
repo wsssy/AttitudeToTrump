@@ -105,7 +105,11 @@ his presidency, which should be the main reason why quotes in 2015
 mentioning Trump have different semantics.
 
 If the conjecture were true, we can see that different people talk in
-different styles and talk about different things.
+different styles and talk about different things and one of the most
+significant change takes place around 2015, which is about the time
+when Trump turned from a businessman without political experience into
+the president of the United States. Below, we will dig deeper to find
+out the factors that may influence people's words towards Trump.
 
 ## **Research Questions** ❓
 
