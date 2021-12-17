@@ -114,6 +114,11 @@ out the factors that may influence people's words towards Trump.
 
 ## Clustering
 
+<!-- PCA Plots of Clustering -->
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
+width="100%" height="500" allowfullscreen="true"
+src="assets/img/PCA_Result_of_Clustering.html"></iframe>
+
 <!-- Age Distribution -->
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
 width="100%" height="500" allowfullscreen="true"
@@ -148,11 +153,6 @@ src="assets/img/Regions_Portion_in_cluster.html"></iframe>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
 width="100%" height="500" allowfullscreen="true"
 src="assets/img/Religion_Portion_in_cluster.html"></iframe>
-
-<!-- PCA Plots of Clustering -->
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
-width="100%" height="500" allowfullscreen="true"
-src="assets/img/PCA_Result_of_Clustering.html"></iframe>
 
 ## **Research Questions** ❓
 
