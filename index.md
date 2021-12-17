@@ -14,7 +14,7 @@ In recent years, Donald Trump is no doubt one of the most controversial public f
 ## Who talked most about Trump?
 
 ### Who talked most about Trump in 2015 before election?
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/quotes-2015_before_election_top10_count.html"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/quotes-2015_top10_count.html"></iframe>
 
 Trump has announced his willingness for the presidential election in June 2015. Before his presidency,  as we know, he was a businessman, a TV show host, a writer of *The art of the deal*, a WWE wrestler,with such a rich professional experience but surprisingly no political career.  It would be interesting to see who talks most about Trump at different times. Since this may reveal how his social circle changes. Thanks to quotebank, we collect all those people who talked most about Trump before he announced his candidacy.  As shown in the above picture, Trump himself without doubt has most quotations about himself. Other people seem to be less famous. Their occupations are shown in the table below. 
 
