@@ -112,7 +112,7 @@ Since people’s attitudes may be changed over time, It's hard to see people's a
 
 First, let’s look at the number of speakers from different regions.
 
-distribution_of_speakers_Regions_2019.html--------------
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/distribution_of_speakers_Regions_2019.html"></iframe>
 
 Most speakers come from Europe, then followed by the United States, and then Asia. This is probably because Europe and the United States are English-speaking regions, and most of the quotes included in Quotebank are from newspapers published in these two regions.
 
@@ -129,7 +129,7 @@ In general, there is no huge difference between the proportion of positive and n
 
 From the distribution chart we can see that there are indeed differences between the attitudes of people from different regions, so why is there such a difference? Let's take a look at what people in different regions were talking about when they mentioned Trump.
 
-2x4的words frequency 分布。
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/2019_other_words_frequency_grid.html"></iframe>
 
 **“American”**, **“campaign”**, **“democrats”**, **“country”** occur in most regions with high frequencies, they may relate to the same topic. But we can also see that some new words appear in different regions, and the attitude difference may relate to these new high-frequency words.
 
@@ -138,7 +138,7 @@ From the distribution chart we can see that there are indeed differences between
 #### **North America**
 
 <figure style="text-align: center">
-    < img src="assets/img/2019_wordcloud_NorthAmerica.png" style="width:65%">
+    <img src="assets/img/2019_wordcloud_NorthAmerica.png" style="width:65%">
 </figure>
 
 The new word **"law"** appears in the North American buzzwords, perhaps this content is related to the more negative attitude of North America, let's see what content is related to **"law"**.
@@ -156,16 +156,12 @@ Most of the contents that contain  "law" are criticizing Trump which tend to exp
 #### **Africa**
 
 <figure style="text-align: center">
-    < img src="assets/img/2019_wordcloud_Africa.png" style="width:65%">
-</figure>
-
-<figure style="text-align: center">
-    < img src="assets/img/2020_wordcloud.png" style="width:65%">
+    <img src="assets/img/2019_wordcloud_Africa.png" style="width:65%">
 </figure>
 
 **“Ukraine”** and **"Giuliani"** are new words appearing in the quotes mentioned by speakers from Africa.  both of them are related to **The Trump–Ukraine scandal**. The Trump–Ukraine scandal is president Donald Trump coerces Ukraine and other foreign countries into providing damaging narratives about 2020 Democratic Party presidential candidate Joe Biden as well as misinformation relating to Russian interference in the 2016  United States elections. This event has brought a lot of negative comments to Trump.
 
-> Quotes containing **“Ukraine”** and **"Giuliani" ** 
+> Quotes containing **“Ukraine”** and **"Giuliani"** 
 >
 > (1) Absolutely. I am afraid it will be on my gravestone. Rudy **Giuliani**: He lied for Trump, 
 >
@@ -183,7 +179,7 @@ Most of the contents that contain  "law" are criticizing Trump which tend to exp
 </figure>
 
 
-People from Oceania have more positive attitudes compared to people from other regions. In Oceania, we see **“support” **among the hot frequency words, Let's see what content it comes with.
+People from Oceania have more positive attitudes compared to people from other regions. In Oceania, we see **“support”** among the hot frequency words, Let's see what content it comes with.
 
 > Quotes containing **“support”**
 >
