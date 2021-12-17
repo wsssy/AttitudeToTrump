@@ -5,8 +5,6 @@ cover-img: assets/img/trump_in_g7.jpeg
 ---
 
 
-# Population's Attitudes Towards Trump
-
 ## Backgrounds 
 
 In recent years, Donald Trump is no doubt one of the most
