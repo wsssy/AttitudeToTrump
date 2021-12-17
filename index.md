@@ -195,8 +195,3 @@ that the contexts focused more on the political aspects.
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
 width="100%" height="100%" allowfullscreen="true"
 src="assets/img/distribution_of_speakers_Regions_2019.html"></iframe>
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
-width="100%" height="100%" allowfullscreen="true"
-src="assets/img/country_attitude_overyear.html"></iframe>
-
