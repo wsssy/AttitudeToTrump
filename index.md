@@ -129,7 +129,7 @@ In general, there is no huge difference between the proportion of positive and n
 
 From the distribution chart we can see that there are indeed differences between the attitudes of people from different regions, so why is there such a difference? Let's take a look at what people in different regions were talking about when they mentioned Trump.
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/2019_other_words_frequency_grid.html"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/2019_other_words_frequency_grid.html"></iframe>
 
 **“American”**, **“campaign”**, **“democrats”**, **“country”** occur in most regions with high frequencies, they may relate to the same topic. But we can also see that some new words appear in different regions, and the attitude difference may relate to these new high-frequency words.
 
