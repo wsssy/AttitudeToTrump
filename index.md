@@ -112,6 +112,48 @@ when Trump turned from a businessman without political experience into
 the president of the United States. Below, we will dig deeper to find
 out the factors that may influence people's words towards Trump.
 
+## Clustering
+
+<!-- Age Distribution -->
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
+width="100%" height="500" allowfullscreen="true"
+src="assets/img/Age_Distribution_over_Clusters.html"></iframe>
+
+<!-- Candidate Portion -->
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
+width="100%" height="500" allowfullscreen="true"
+src="assets/img/Candidate_Portion_in_cluster.html"></iframe>
+
+<!-- Education Portion -->
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
+width="100%" height="500" allowfullscreen="true"
+src="assets/img/Education_Portion_in_cluster.html"></iframe>
+
+<!-- Gender Portion -->
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
+width="100%" height="500" allowfullscreen="true"
+src="assets/img/Gender_portion_in_cluster.html"></iframe>
+
+<!-- Party Portion -->
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
+width="100%" height="500" allowfullscreen="true"
+src="assets/img/Party_Portion_in_cluster.html"></iframe>
+
+<!-- Regions Portion -->
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
+width="100%" height="500" allowfullscreen="true"
+src="assets/img/Regions_Portion_in_cluster.html"></iframe>
+
+<!-- Religion Portion -->
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
+width="100%" height="500" allowfullscreen="true"
+src="assets/img/Religion_Portion_in_cluster.html"></iframe>
+
+<!-- PCA Plots of Clustering -->
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
+width="100%" height="500" allowfullscreen="true"
+src="assets/img/PCA_Result_of_Clustering.html"></iframe>
+
 ## **Research Questions** ❓
 
 - **Question 1**. To explore the attitude towards Trump of each people cluster and check whether there is (a) specific cluster(s) that has/have an explicit attitude towards him and find out whether these clusters have some defining or distinguishing characteristic.
