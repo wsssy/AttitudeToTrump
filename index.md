@@ -177,12 +177,9 @@ Most of the contents that contain  "law" are criticizing Trump which tend to exp
 
 #### **Oceania**
 
-<figure style="text-align: center">
-    < img src="assets/img/2019_wordcloud_Oceania.png" style="width:65%">
-</figure>
 
 <figure style="text-align: center">
-    <img src="assets/img/2015_wordcloud_befor6.png" style="width:65%">
+    <img src="assets/img/2019_wordcloud_Oceania.png" style="width:65%">
 </figure>
 
 
