@@ -298,6 +298,6 @@ that the contexts focused more on the political aspects.
 
 ## Ending
 
-In our story we have discovered many things around Trump have changed from who actually talked about him to the contents and attitude of each quote about him. We have also found some factors like region may influence people’s attitude. Furthermore, we used a clustering method to discover if there are higher dimensions of factors that may influence people’s attitude toward Trump. Among all the changes overtime, there is one thing that has never changed, that is, Trump never stops bragging about himself.
+In our story we have discovered many things around Trump have changed, from who actually talked about him to the contents and attitude of each quote about him. We have also found some factors like region may influence people’s attitude. Furthermore, we used a clustering method to discover if there are higher dimensions of factors that may influence people’s attitude toward Trump. Among all the changes overtime, there is one thing that has never changed, that is, Trump never stops bragging about himself.
 
 
