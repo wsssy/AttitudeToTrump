@@ -104,6 +104,110 @@ when Trump turned from a businessman without political experience into
 the president of the United States. Below, we will dig deeper to find
 out the factors that may influence people's words towards Trump.
 
+## Do people's attitudes towards Trump relate to their regions?
+
+Since people’s attitudes may be changed over time, It's hard to see people's attitudes over a long time range. Thus, we chose to study people's attitudes in 2019 because the data from 2019 is complete and closer to the current situation than data from another year.
+
+### Distribution of speakers' regions
+
+First, let’s look at the number of speakers from different regions.
+
+distribution_of_speakers_Regions_2019.html--------------
+
+Most speakers come from Europe, then followed by the United States, and then Asia. This is probably because Europe and the United States are English-speaking regions, and most of the quotes included in Quotebank are from newspapers published in these two regions.
+
+### People’s attitude towards Trump in 2019 grouped by regions
+
+We performed sentiment analysis on each quote and got positive and negative scores. if positive is greater than negative, we considered this quote as positive and vice versa, if the scores are equal this quote was neutral. Let's see how people from different Regions are thinking about Trump.
+
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/2019_country_attitude.html"></iframe>
+
+In general, there is no huge difference between the proportion of positive and negative in most countries, with slightly more positive than negative. However, the proportion of positive attitudes in “others” is large, because the number of people from other places is small and there is a bias in the statistics, so we do not consider "others" for the time being. Let's look at the rest of the regions, there are still some differences between their attitudes. People in **North America** and **Africa** have more negative attitudes toward Trump, while people in **Oceania**have more positive attitudes toward Trump.
+
+###  What people in different regions were talking about when they mentioned Trump?
+
+From the distribution chart we can see that there are indeed differences between the attitudes of people from different regions, so why is there such a difference? Let's take a look at what people in different regions were talking about when they mentioned Trump.
+
+2x4的words frequency 分布。
+
+**“American”**, **“campaign”**, **“democrats”**, **“country”** occur in most regions with high frequencies, they may relate to the same topic. But we can also see that some new words appear in different regions, and the attitude difference may relate to these new high-frequency words.
+
+
+
+#### **North America**
+
+<figure style="text-align: center">
+    < img src="assets/img/2019_wordcloud_NorthAmerica.png" style="width:65%">
+</figure>
+
+The new word **"law"** appears in the North American buzzwords, perhaps this content is related to the more negative attitude of North America, let's see what content is related to **"law"**.
+
+> Quotes containing **“law”**
+>
+> (1) been in the middle of Trump's barbs with her husband, George, a conservative **lawyer** who frequently makes headlines for his criticism of the president. 
+>
+> (2)First, the courts had it right to review the decision made by the Trump administration to end the DACA program, and second, the actions by the Trump administration were **unlawful** and unwise and consequential for many Americans.
+
+Most of the contents that contain  "law" are criticizing Trump which tend to express the negative attitude.
+
+
+
+#### **Africa**
+
+<figure style="text-align: center">
+    < img src="assets/img/2019_wordcloud_Africa.png" style="width:65%">
+</figure>
+
+**“Ukraine”** and **"Giuliani" ** are new words appearing in the quotes mentioned by speakers from Africa.  both of them are related to **The Trump–Ukraine scandal**. The Trump–Ukraine scandal is president Donald Trump coerces Ukraine and other foreign countries into providing damaging narratives about 2020 Democratic Party presidential candidate Joe Biden as well as misinformation relating to Russian interference in the 2016  United States elections. This event has brought a lot of negative comments to Trump.
+
+> Quotes containing **“Ukraine”** and **"Giuliani" ** 
+>
+> (1) Absolutely. I am afraid it will be on my gravestone. Rudy **Giuliani**: He lied for Trump, 
+>
+> (2) Using the American embassy in **Ukraine** as their focal point to get dirt on Trump.
+>
+> (3) Will Trump's CIA director contact foreign nationals to aid in spying on Biden's aides? Will National Security Advisor John Bolton request that the names of surveilled Biden campaign officials become unmasked as a way of having them leaked to the media? Will Trump hire a British ex-spy to gather together rumors and gossip about Biden's previous overseas trips and foreign contacts, especially in the **Ukraine**, and then see them seeded among the Trump CIA, FBI, Justice Department, and State Department? Is that the sort of country we have now?  
+
+
+
+#### **Oceania**
+
+<figure style="text-align: center">
+    < img src="assets/img/2019_wordcloud_Oceania.png" style="width:65%">
+</figure>
+
+
+People from Oceania have more positive attitudes compared to people from other regions. In Oceania, we see **“support” **among the hot frequency words, Let's see what content it comes with.
+
+> Quotes containing **“support”**
+>
+> (1) The most visible manifestation of this is the **support** for Donald Trump
+>
+> (2) As former chair of RPOF chair... I am proud to **support** Donald Trump
+>
+> (3) Not even Ronald Reagan had as much **support** within the party as President Trump!
+
+We can see that the attitude of the quotes that appear together with support is relatively positive.
+
+
+
+## People's attitude towards Trump over year grouped by regions
+
+So far, we've looked at people's attitudes in 2019. Let's look at the other years.
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/country_attitude_overyear.html"></iframe>
+
+We see that the attitudes of different regions are changing over time. At the same time, the difference in attitudes between regions becomes larger as time goes on. The difference in attitudes is more pronounced in 2020. 
+
+**Conclusion**
+
+In general, differences in attitudes between regions exist and are becoming more obvious. This difference may be influenced by the quickly changing international situation. We think people's attitudes toward Trump are related to their regions.
+
+In this part we have discovered how the factor region affects people’s attitude towards Trump. It would be nice if we could go beyond only grouping people by a single factor, so we perform a clustering procedure for people talking about Trump to see if there is any difference among clusters as shown in the next section.
+
+
+
 ## Cluster Analysis
 
 Having viewed the results grouped by the nationalities and age groups,
@@ -191,7 +295,3 @@ about Trump under a focused context after he became
 president. Combined with the word cloud we have above, we could see
 that the contexts focused more on the political aspects.
 
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
-allowfullscreen="true"
-src="assets/img/distribution_of_speakers_Regions_2019.html"></iframe>
