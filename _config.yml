@@ -16,6 +16,7 @@ author: ADA Group - overcooked
 navbar-links:
 #   About Me: "aboutme"
   Resources:
+    - Gringotts: "https://dlab.epfl.ch/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 #   Author's home: "https://deanattali.com"
