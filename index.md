@@ -116,7 +116,7 @@ First, let’s look at the number of speakers from different regions.
 
 Most speakers come from Europe, then followed by the United States, and then Asia. This is probably because Europe and the United States are English-speaking regions, and most of the quotes included in Quotebank are from newspapers published in these two regions.
 
-### People’s attitude towards Trump in 2019 grouped by regions
+### What are attitudes of people from different regions in 2019? 
 
 We performed sentiment analysis on each quote and got positive and negative scores. if positive is greater than negative, we considered this quote as positive and vice versa, if the scores are equal this quote was neutral. Let's see how people from different Regions are thinking about Trump.
 
@@ -193,7 +193,7 @@ We can see that the attitude of the quotes that appear together with support is 
 
 
 
-## People's attitude towards Trump over year grouped by regions
+## What are attitudes of people from different regions over year?
 
 So far, we've looked at people's attitudes in 2019. Let's look at the other years.
 
