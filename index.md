@@ -52,9 +52,12 @@ In this part we have discovered the transition of Trump’s circle from the diff
 
 
 
-
-
 ## **Word frequency** 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/2015_wordcloud_befor6.png"></iframe>
+
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" allowfullscreen="true" src="assets/img/2020_wordcloud.png"></iframe>
+
 
 
 ## The Semantics of the Quotes in 2015 are Different
