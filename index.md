@@ -235,10 +235,16 @@ clusters.
 width="100%" height="500" allowfullscreen="true"
 src="assets/img/Costs_Trendency_depending_on_the_Number_of_Clusters.html"></iframe>
 
+The costs above refer to the distance in cluster. We need to see the
+speed of decreasing to determine the number of clusters we use.
+
 <!-- PCA Plots of Clustering -->
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
 width="100%" height="500" allowfullscreen="true"
 src="assets/img/PCA_Result_of_Clustering.html"></iframe>
+
+We use PCA on the matrix of speaker features matrix, which showing
+that clustering did a good job.
 
 The figures show the distribution of features for each
 cluster as below.
@@ -252,6 +258,9 @@ src="assets/img/Age_Distribution_over_Clusters.html"></iframe>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
 width="100%" height="500" allowfullscreen="true"
 src="assets/img/Candidate_Portion_in_cluster.html"></iframe>
+
+This figure shows the portion of speakers in each cluster who have
+been to be a candidate for some election.
 
 <!-- Education Portion -->
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
@@ -288,6 +297,10 @@ for all of the mean vector.
 width="100%" height="500" allowfullscreen="true"
 src="assets/img/Total_Speakers_Time_PCA_Result.html"></iframe>
 
+The date sequence is defined as the same as above. The deep colors
+refer to early years (i.e. 2015, 2016), while light colors refer to
+later years.
+
 From the above figure, we could observe that although different
 clusters had different quotes’ contents’ in early years (i.e. 2015,
 2016), then, as time passed, all the clusters’ quotes’ contents tend
@@ -299,5 +312,4 @@ that the contexts focused more on the political aspects.
 ## Ending
 
 In our story we have discovered many things around Trump have changed, from who actually talked about him to the contents and attitude of each quote about him. We have also found some factors like region may influence people’s attitude. Furthermore, we used a clustering method to discover if there are higher dimensions of factors that may influence people’s attitude toward Trump. Among all the changes overtime, there is one thing that has never changed, that is, Trump never stops bragging about himself.
-
 
