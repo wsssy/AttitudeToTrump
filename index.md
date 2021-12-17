@@ -181,6 +181,10 @@ Most of the contents that contain  "law" are criticizing Trump which tend to exp
     < img src="assets/img/2019_wordcloud_Oceania.png" style="width:65%">
 </figure>
 
+<figure style="text-align: center">
+    <img src="assets/img/2015_wordcloud_befor6.png" style="width:65%">
+</figure>
+
 
 People from Oceania have more positive attitudes compared to people from other regions. In Oceania, we see **“support” **among the hot frequency words, Let's see what content it comes with.
 
