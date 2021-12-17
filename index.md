@@ -190,5 +190,7 @@ about Trump under a focused context after he became
 president. Combined with the word cloud we have above, we could see
 that the contexts focused more on the political aspects.
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"allowfullscreen="true"
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
+allowfullscreen="true"
 src="assets/img/distribution_of_speakers_Regions_2019.html"></iframe>
