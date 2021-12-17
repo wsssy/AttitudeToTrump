@@ -112,17 +112,33 @@ when Trump turned from a businessman without political experience into
 the president of the United States. Below, we will dig deeper to find
 out the factors that may influence people's words towards Trump.
 
-## Clustering
+## Cluster Analysis
+
+Having viewed the results grouped by the nationalities and age groups,
+we observed that there are poeple from different regions have
+different attitudes towards Trump; however, different age groups does
+not give the same result. In this case, we want to have a higher and
+more abstract view of how different kinds of people have different
+views or speak differently about Trump. We decided to do the
+clustering based on speakers’ age, nationalities, genders, religions,
+parties, and their education degrees. By Collecting data from Wiki
+Data, we noticed that these categorical variables are too detailed, so
+we implemented dimension reduction with net connection method combined
+with manually manipulation.
+
+
+For clustering, we used K-prototype, which could deal with mixed data
+continue variables and categorical variables. After getting the costs
+tendency (see below), we decided to cluster speakers into 5
+clusters.
 
 <!-- Costs -->
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
 width="100%" height="500" allowfullscreen="true"
 src="assets/img/Costs_Trendency_depending_on_the_Number_of_Clusters.html"></iframe>
 
-<!-- PCA Plots of Clustering -->
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
-width="100%" height="500" allowfullscreen="true"
-src="assets/img/PCA_Result_of_Clustering.html"></iframe>
+The figures show the distribution of features for each
+cluster as below.
 
 <!-- Age Distribution -->
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
@@ -158,6 +174,25 @@ src="assets/img/Regions_Portion_in_cluster.html"></iframe>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
 width="100%" height="500" allowfullscreen="true"
 src="assets/img/Religion_Portion_in_cluster.html"></iframe>
+
+Then, we want to see if there exists different quotes’ contents over
+different cluster. We first calculated mean of each cluster for each
+month based on BERT embedding matrix. And then we did 2-dimention PCA
+for all of the mean vector.
+
+<!-- PCA Plots of Clustering -->
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
+width="100%" height="500" allowfullscreen="true"
+src="assets/img/PCA_Result_of_Clustering.html"></iframe>
+
+From the above figure, we could observe that although different
+clusters had different quotes’ contents’ in early years (i.e. 2015,
+2016), then, as time passed, all the clusters’ quotes’ contents tend
+to be the same. This result also implies that people tend to talked
+about Trump under a focused context after he became
+president. Combined with the word cloud we have above, we could see
+that the contexts focused more on the political aspects.
+
 
 ## **Research Questions** ❓
 
