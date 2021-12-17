@@ -159,7 +159,11 @@ Most of the contents that contain  "law" are criticizing Trump which tend to exp
     < img src="assets/img/2019_wordcloud_Africa.png" style="width:65%">
 </figure>
 
-**“Ukraine”** and **"Giuliani" ** are new words appearing in the quotes mentioned by speakers from Africa.  both of them are related to **The Trump–Ukraine scandal**. The Trump–Ukraine scandal is president Donald Trump coerces Ukraine and other foreign countries into providing damaging narratives about 2020 Democratic Party presidential candidate Joe Biden as well as misinformation relating to Russian interference in the 2016  United States elections. This event has brought a lot of negative comments to Trump.
+<figure style="text-align: center">
+    < img src="assets/img/2020_wordcloud.png" style="width:65%">
+</figure>
+
+**“Ukraine”** and **"Giuliani"** are new words appearing in the quotes mentioned by speakers from Africa.  both of them are related to **The Trump–Ukraine scandal**. The Trump–Ukraine scandal is president Donald Trump coerces Ukraine and other foreign countries into providing damaging narratives about 2020 Democratic Party presidential candidate Joe Biden as well as misinformation relating to Russian interference in the 2016  United States elections. This event has brought a lot of negative comments to Trump.
 
 > Quotes containing **“Ukraine”** and **"Giuliani" ** 
 >
