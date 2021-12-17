@@ -9,7 +9,18 @@ cover-img: assets/img/trump_in_g7.jpeg
 
 ## Abstract 📖
 
-In recent years, Donald Trump is no doubt one of the most controversial public figures around the world. From winning the 2016 presidential election as a dark horse to losing the election by a narrow margin in late 2020, Trump has made a non-negligible impact on the United States and the world in the four years of his presidency. People’s attitude towards him greatly divides over different groups of people and varies as time moves forward. We want to see what people's attitudes toward Trump are in these four years, whether these attitudes have changed, and further what factors might be related to these changes. In other words, we will study people’s attitudes before and after some major events to find out how the attitudes change.
+In recent years, Donald Trump is no doubt one of the most
+controversial public figures around the world. From winning the 2016
+presidential election as a dark horse to losing the election by a
+narrow margin in late 2020, Trump has made a significant impact on
+the United States and the world during the four years of his presidency.
+
+We would like to find out how people’s words on Trump have changed and
+the reasons behind the changes. We will first show that there are
+indeed changes in people’s words and we will investigate what has
+changed. After that, we will try to identify the potential factors
+that would have caused these changes.
+
 
 ## Who talked most about Trump?
 
