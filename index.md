@@ -114,6 +114,11 @@ out the factors that may influence people's words towards Trump.
 
 ## Clustering
 
+<!-- Costs -->
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
+width="100%" height="500" allowfullscreen="true"
+src="assets/img/Costs_Trendency_depending_on_the_Number_of_Clusters.html"></iframe>
+
 <!-- PCA Plots of Clustering -->
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
 width="100%" height="500" allowfullscreen="true"
